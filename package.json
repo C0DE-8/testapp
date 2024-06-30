@@ -1,0 +1,15 @@
+{
+  "name": "simp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "code0",
+  "license": "ISC",
+  "description": "simple route",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
